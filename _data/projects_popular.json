@@ -1,115 +1,4 @@
 {
-    "e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs": {
-        "projName": "Neuromorphic NoC Architecture for SNNs",
-        "batch": "E17",
-        "category": {
-            "title": "Undergraduate Research Projects",
-            "code": "4yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-        },
-        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
-        "project_url": "/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
-        "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
-        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "created_at": "2023-05-19T16:39:40Z",
-        "updated_at": "2025-02-26T11:58:37Z",
-        "forks_count": 7,
-        "stars_count": 21,
-        "watchers_count": 21,
-        "language": "Verilog",
-        "topics": [],
-        "has_projects": true,
-        "has_wiki": true,
-        "has_pages": true,
-        "description": "This project aims to develop a novel neuromorphic NoC architecture based on RISC-V ISA to support spiking neural network applications, and test it on FPGA.",
-        "team": {
-            "E/17/018": {
-                "name": "Imesh Balasuriya",
-                "email": "e17018@eng.pdn.ac.lk",
-                "website": "https://www.imesh.tech",
-                "github": "https://github.com/ImeshBalasuriya/",
-                "linkedin": "https://www.linkedin.com/in/imesh-balasuriya/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/018",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17018.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/018/"
-            },
-            "E/17/154": {
-                "name": "Akila Karunanayake",
-                "email": "e17154@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/Akilax0",
-                "linkedin": "https://www.linkedin.com/in/akila-karunanayake-978bba211/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/154",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17154.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/154/"
-            },
-            "E/17/286": {
-                "name": "Tharindu Rathnayake",
-                "email": "e17286@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/286",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17286.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/286/"
-            }
-        },
-        "supervisors": {
-            "isurunawinne@eng.pdn.ac.lk": {
-                "name": "Dr. Isuru Nawinne",
-                "email": "isurunawinne@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
-                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
-            },
-            "mahanamaw@eng.pdn.ac.lk": {
-                "name": "Dr. Mahanama Wickramasinghe",
-                "email": "mahanamaw@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/mahanama",
-                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
-            },
-            "roshanr@eng.pdn.ac.lk": {
-                "name": "Prof. Roshan G. Ragel",
-                "email": "roshanr@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
-                "website": "http://roshan.ragel.net/",
-                "linkedin": "https://www.linkedin.com/in/roshanragel/",
-                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
-                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
-            },
-            "isurud@ee.pdn.ac.lk": {
-                "name": "Dr. Isuru Dasanayake",
-                "email": "isurud@ee.pdn.ac.lk",
-                "profile_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "api_url": "#",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
-            }
-        },
-        "tags": [
-            "Final Year Projects"
-        ],
-        "name": "e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
-        "popularity_score": 18.2
-    },
     "e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients": {
         "projName": "Food Recommendation System Using Machine Learning for Diabetic Patients",
         "batch": "E16",
@@ -124,10 +13,10 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2022-07-23T18:00:10Z",
-        "updated_at": "2025-02-13T01:35:15Z",
-        "forks_count": 10,
-        "stars_count": 24,
-        "watchers_count": 24,
+        "updated_at": "2025-03-25T15:51:02Z",
+        "forks_count": 11,
+        "stars_count": 25,
+        "watchers_count": 25,
         "language": "Jupyter Notebook",
         "topics": [
             "diabetes",
@@ -206,7 +95,7 @@
             "Final Year Projects"
         ],
         "name": "e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
-        "popularity_score": 21.2
+        "popularity_score": 22.2
     },
     "e15-4yp-sports-action-recognition": {
         "projName": "sports action recognition",
@@ -387,6 +276,212 @@
         "name": "e16-3yp-smart-vending-machine",
         "popularity_score": 9.6
     },
+    "e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs": {
+        "projName": "Neuromorphic NoC Architecture for SNNs",
+        "batch": "E17",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+        "project_url": "/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "created_at": "2023-05-19T16:39:40Z",
+        "updated_at": "2025-02-26T11:58:37Z",
+        "forks_count": 7,
+        "stars_count": 21,
+        "watchers_count": 21,
+        "language": "Verilog",
+        "topics": [],
+        "has_projects": true,
+        "has_wiki": true,
+        "has_pages": true,
+        "description": "This project aims to develop a novel neuromorphic NoC architecture based on RISC-V ISA to support spiking neural network applications, and test it on FPGA.",
+        "team": {
+            "E/17/018": {
+                "name": "Imesh Balasuriya",
+                "email": "e17018@eng.pdn.ac.lk",
+                "website": "https://www.imesh.tech",
+                "github": "https://github.com/ImeshBalasuriya/",
+                "linkedin": "https://www.linkedin.com/in/imesh-balasuriya/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/018",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17018.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/018/"
+            },
+            "E/17/154": {
+                "name": "Akila Karunanayake",
+                "email": "e17154@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Akilax0",
+                "linkedin": "https://www.linkedin.com/in/akila-karunanayake-978bba211/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/154",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17154.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/154/"
+            },
+            "E/17/286": {
+                "name": "Tharindu Rathnayake",
+                "email": "e17286@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/286",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17286.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/286/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            },
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "isurud@ee.pdn.ac.lk": {
+                "name": "Dr. Isuru Dasanayake",
+                "email": "isurud@ee.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ],
+        "name": "e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+        "popularity_score": 18.2
+    },
+    "e17-3yp-smart-shopping-cart": {
+        "projName": "smart shopping cart",
+        "batch": "E17",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-shopping-cart",
+        "project_url": "/3yp/e17/smart-shopping-cart/",
+        "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e17-3yp-smart-shopping-cart",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "created_at": "2021-06-24T10:46:06Z",
+        "updated_at": "2025-03-24T09:29:11Z",
+        "forks_count": 8,
+        "stars_count": 8,
+        "watchers_count": 8,
+        "language": "Python",
+        "topics": [
+            "cart",
+            "ecommerce",
+            "shop",
+            "shopping-cart"
+        ],
+        "has_projects": true,
+        "has_wiki": true,
+        "has_pages": true,
+        "description": "Many people like shopping but the main problem is the time take for the billing. We like to solve this problem. In this case, we like to introduce a device that can do all billing work so that there is no need to wait for billing. they can buy things and pay themselves. developed by @Piriyaraj, @Rilwan292, and @Kavinaya12 https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart/",
+        "team": {
+            "E/17/159": {
+                "name": "Kavinaya Y",
+                "email": "e17159@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/159",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/159/"
+            },
+            "E/17/256": {
+                "name": "Piriyaraj S",
+                "email": "e17256@eng.pdn.ac.lk",
+                "website": "https://spiriyaraj.blogspot.com/",
+                "github": "https://github.com/piriyaraj",
+                "linkedin": "https://www.linkedin.com/in/piriyaraj",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/256",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17256.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/256/"
+            },
+            "E/17/292": {
+                "name": "Rilwan M.M.M",
+                "email": "e17292@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/292",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17292.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/292/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ],
+        "name": "e17-3yp-smart-shopping-cart",
+        "popularity_score": 8.0
+    },
     "e16-3yp-smart-pharmaceutical-warehousing": {
         "projName": "smart pharmaceutical warehousing",
         "batch": "E16",
@@ -480,6 +575,36 @@
         ],
         "name": "e16-3yp-smart-pharmaceutical-warehousing",
         "popularity_score": 12.6
+    },
+    "e17-co326-Smart-Building": {
+        "projName": "Smart Building",
+        "batch": "E17",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "repo_url": "https://github.com/cepdnaclk/e17-co326-Smart-Building",
+        "project_url": "/co326/e17/Smart-Building/",
+        "page_url": "https://cepdnaclk.github.io/e17-co326-Smart-Building",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e17-co326-Smart-Building",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+        "created_at": "2022-06-30T00:12:23Z",
+        "updated_at": "2022-11-06T03:32:35Z",
+        "forks_count": 48,
+        "stars_count": 1,
+        "watchers_count": 1,
+        "language": "Jupyter Notebook",
+        "topics": [],
+        "has_projects": true,
+        "has_wiki": true,
+        "has_pages": true,
+        "description": "",
+        "team": {},
+        "supervisors": {},
+        "tags": {},
+        "name": "e17-co326-Smart-Building",
+        "popularity_score": 10.4
     },
     "e16-co502-RV32IM-pipeline-implementation-group1": {
         "projName": "RV32IM pipeline implementation group1",
@@ -577,68 +702,5 @@
         ],
         "name": "e16-co502-RV32IM-pipeline-implementation-group1",
         "popularity_score": 20.0
-    },
-    "e16-4yp-Identification-of-Weeds-in-broadcasted-Paddy-fields-using-multispectral-UAV-images": {
-        "projName": "Identification of Weeds in broadcasted Paddy fields using multispectral UAV images",
-        "batch": "E16",
-        "category": {
-            "title": "Undergraduate Research Projects",
-            "code": "4yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-        },
-        "repo_url": "https://github.com/cepdnaclk/e16-4yp-Identification-of-Weeds-in-broadcasted-Paddy-fields-using-multispectral-UAV-images",
-        "project_url": "/4yp/e16/Identification-of-Weeds-in-broadcasted-Paddy-fields-using-multispectral-UAV-images/",
-        "page_url": "https://cepdnaclk.github.io/e16-4yp-Identification-of-Weeds-in-broadcasted-Paddy-fields-using-multispectral-UAV-images",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e16-4yp-Identification-of-Weeds-in-broadcasted-Paddy-fields-using-multispectral-UAV-images",
-        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "created_at": "2022-07-24T18:51:00Z",
-        "updated_at": "2025-03-21T12:17:02Z",
-        "forks_count": 2,
-        "stars_count": 9,
-        "watchers_count": 9,
-        "language": "Python",
-        "topics": [
-            "agriculture",
-            "machine-learning"
-        ],
-        "has_projects": true,
-        "has_wiki": true,
-        "has_pages": true,
-        "description": "Develop a model to Identify paddy crops and weeds by images taken from UAV (unmanned aerial vehicle) and develop a desktop application as user interface",
-        "team": {},
-        "supervisors": {},
-        "tags": {},
-        "name": "e16-4yp-Identification-of-Weeds-in-broadcasted-Paddy-fields-using-multispectral-UAV-images",
-        "popularity_score": 7.6
-    },
-    "e17-co326-Smart-Building": {
-        "projName": "Smart Building",
-        "batch": "E17",
-        "category": {
-            "title": "Industrial Automation Projects (CO326)",
-            "code": "co326",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-        },
-        "repo_url": "https://github.com/cepdnaclk/e17-co326-Smart-Building",
-        "project_url": "/co326/e17/Smart-Building/",
-        "page_url": "https://cepdnaclk.github.io/e17-co326-Smart-Building",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e17-co326-Smart-Building",
-        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-        "created_at": "2022-06-30T00:12:23Z",
-        "updated_at": "2022-11-06T03:32:35Z",
-        "forks_count": 48,
-        "stars_count": 1,
-        "watchers_count": 1,
-        "language": "Jupyter Notebook",
-        "topics": [],
-        "has_projects": true,
-        "has_wiki": true,
-        "has_pages": true,
-        "description": "",
-        "team": {},
-        "supervisors": {},
-        "tags": {},
-        "name": "e17-co326-Smart-Building",
-        "popularity_score": 10.4
     }
 }
