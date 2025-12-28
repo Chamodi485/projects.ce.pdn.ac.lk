@@ -55,7 +55,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
         }
     ],
@@ -1250,6 +1250,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Traffic-Ecosystem",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
+        },
+        {
+            "title": "Green House Automation",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Green-House-Automation/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Green-House-Automation/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/"
         }
     ],
     "Cloud Deployment": [
@@ -2263,7 +2276,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
         }
     ],
@@ -3421,7 +3434,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
         },
         {
@@ -3551,7 +3564,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
         },
         {
@@ -4151,7 +4164,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
         }
     ],
@@ -4166,7 +4179,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
         }
     ],
@@ -4196,7 +4209,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
         }
     ],
@@ -5819,6 +5832,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/backdoor-resilient-federated-nids/"
+        },
+        {
+            "title": "symbolic music generation with xLSTM",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/symbolic-music-generation-with-xLSTM/",
+            "repo_url": "https://github.com/cepdnaclk/e20-4yp-symbolic-music-generation-with-xLSTM",
+            "page_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/symbolic-music-generation-with-xLSTM/"
         }
     ],
     "Final Year Projects, LLM, Law, Chatbot, MoE, Multi-agent": [
@@ -6363,7 +6389,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
         },
         {
@@ -6531,6 +6557,19 @@
         }
     ],
     "IOT": [
+        {
+            "title": "Green House Automation",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Green-House-Automation/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Green-House-Automation/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/"
+        },
         {
             "title": "Smart Shopping Cart",
             "category": {
@@ -6888,7 +6927,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
         },
         {
@@ -8272,7 +8311,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
         }
     ],
@@ -8440,7 +8479,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
         }
     ],
@@ -8774,7 +8813,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
         }
     ],
@@ -10755,7 +10794,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
         }
     ],
@@ -10918,7 +10957,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
         }
     ],
@@ -12659,7 +12698,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
         },
         {
@@ -12685,7 +12724,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
         },
         {
@@ -12802,7 +12841,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
         },
         {

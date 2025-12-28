@@ -3746,10 +3746,10 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e15-4yp-Brain-Computer-Interface-for-controlling-virtual-objects",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2021-03-04T21:20:49Z",
-        "updated_at": "2025-11-18T12:59:09Z",
+        "updated_at": "2025-12-28T18:47:19Z",
         "forks_count": 1,
-        "stars_count": 3,
-        "watchers_count": 3,
+        "stars_count": 4,
+        "watchers_count": 4,
         "language": "Python",
         "topics": [
             "bci",
@@ -7693,10 +7693,10 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e16-4yp-Configurable-ECU-Emulator",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2022-07-22T16:08:39Z",
-        "updated_at": "2024-01-13T18:56:10Z",
+        "updated_at": "2025-12-27T03:40:10Z",
         "forks_count": 3,
-        "stars_count": 2,
-        "watchers_count": 2,
+        "stars_count": 3,
+        "watchers_count": 3,
         "language": "C++",
         "topics": [
             "computer-architecture",
@@ -17029,10 +17029,10 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e18-3yp-smart-pet-collar",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "created_at": "2022-10-29T17:43:00Z",
-        "updated_at": "2025-12-21T10:58:25Z",
+        "updated_at": "2025-12-24T11:11:52Z",
         "forks_count": 8,
-        "stars_count": 6,
-        "watchers_count": 6,
+        "stars_count": 7,
+        "watchers_count": 7,
         "language": "JavaScript",
         "topics": [
             "embedded-systems",
@@ -27228,7 +27228,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2025-02-02T12:52:48Z",
-        "updated_at": "2025-12-21T15:43:31Z",
+        "updated_at": "2025-12-26T17:36:36Z",
         "forks_count": 0,
         "stars_count": 0,
         "watchers_count": 0,
@@ -27478,7 +27478,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2025-01-19T06:55:22Z",
-        "updated_at": "2025-07-13T06:14:48Z",
+        "updated_at": "2025-12-25T06:22:10Z",
         "forks_count": 3,
         "stars_count": 2,
         "watchers_count": 2,
@@ -34844,10 +34844,10 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e20-3yp-Cattle-Management-System",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "created_at": "2024-12-09T05:05:17Z",
-        "updated_at": "2025-12-21T11:09:42Z",
+        "updated_at": "2025-12-26T04:57:29Z",
         "forks_count": 6,
-        "stars_count": 7,
-        "watchers_count": 7,
+        "stars_count": 8,
+        "watchers_count": 8,
         "language": "TypeScript",
         "topics": [],
         "has_projects": true,
@@ -35108,7 +35108,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e20-3yp-Green-House-Automation",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "created_at": "2025-01-06T10:58:10Z",
-        "updated_at": "2025-07-17T20:06:20Z",
+        "updated_at": "2025-12-25T12:23:09Z",
         "forks_count": 4,
         "stars_count": 0,
         "watchers_count": 0,
@@ -35177,7 +35177,10 @@
                 "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
             }
         },
-        "tags": {}
+        "tags": [
+            "IOT",
+            "Cloud"
+        ]
     },
     "e20-3yp-MediFlow": {
         "projName": "MediFlow",
@@ -36394,7 +36397,7 @@
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "created_at": "2025-01-05T14:03:47Z",
         "updated_at": "2025-12-20T17:45:58Z",
-        "forks_count": 0,
+        "forks_count": 1,
         "stars_count": 0,
         "watchers_count": 0,
         "language": "Dart",
@@ -36781,7 +36784,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-Optimizing-Communication-Efficiency-and-Latency-in-Blockchain-Enabled-FL-Systems",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2025-09-04T14:29:33Z",
-        "updated_at": "2025-11-07T17:39:16Z",
+        "updated_at": "2025-12-25T11:35:17Z",
         "forks_count": 1,
         "stars_count": 0,
         "watchers_count": 0,
@@ -36790,7 +36793,7 @@
         "has_projects": true,
         "has_wiki": true,
         "has_pages": true,
-        "description": "An advanced cybersecurity framework where explainable AI (XAI) models are trained via federated learning across distributed nodes to detect threats in Wi-Fi 7 and 6G networks. Blockchain ensures secure, transparent sharing of threat intelligence and model updates, enhancing trust and integrity.",
+        "description": "A blockchain-enabled federated learning framework that enhances the original LiteChain architecture by minimizing communication overhead and reducing end-to-end latency.",
         "team": {
             "E/20/148": {
                 "name": "Hewawasam A.K.L",
@@ -36868,11 +36871,11 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2025-10-15T02:14:36Z",
-        "updated_at": "2025-11-16T05:16:41Z",
+        "updated_at": "2025-12-28T15:32:39Z",
         "forks_count": 1,
         "stars_count": 0,
         "watchers_count": 0,
-        "language": null,
+        "language": "C++",
         "topics": [],
         "has_projects": true,
         "has_wiki": true,
@@ -36924,6 +36927,17 @@
                 "linkedin": "https://lk.linkedin.com/in/suneth-namal-b70b8688",
                 "researchgate": "https://www.researchgate.net/profile/Suneth-Namal",
                 "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
+            },
+            "upuljm@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "upuljm@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/upul-jayasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/upuljm/",
+                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
             }
         },
         "tags": [
@@ -36944,11 +36958,11 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-backdoor-resilient-federated-nids",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2025-10-17T14:49:32Z",
-        "updated_at": "2025-12-20T10:16:44Z",
+        "updated_at": "2025-12-25T06:54:39Z",
         "forks_count": 1,
         "stars_count": 0,
         "watchers_count": 0,
-        "language": "Python",
+        "language": "Jupyter Notebook",
         "topics": [],
         "has_projects": true,
         "has_wiki": true,
@@ -37013,6 +37027,36 @@
                 "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
             }
         },
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
+    "e20-4yp-symbolic-music-generation-with-xLSTM": {
+        "projName": "symbolic music generation with xLSTM",
+        "batch": "E20",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-symbolic-music-generation-with-xLSTM",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/symbolic-music-generation-with-xLSTM/",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-symbolic-music-generation-with-xLSTM",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "created_at": "2025-12-22T15:01:35Z",
+        "updated_at": "2025-12-22T16:05:32Z",
+        "forks_count": 0,
+        "stars_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "topics": [],
+        "has_projects": true,
+        "has_wiki": true,
+        "has_pages": true,
+        "description": "",
+        "team": {},
+        "supervisors": {},
         "tags": [
             "Final Year Projects"
         ]
@@ -40125,7 +40169,7 @@
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
         "created_at": "2025-04-03T13:21:28Z",
         "updated_at": "2025-04-04T02:28:30Z",
-        "forks_count": 0,
+        "forks_count": 1,
         "stars_count": 0,
         "watchers_count": 0,
         "language": "Jupyter Notebook",
@@ -40789,7 +40833,7 @@
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
         "created_at": "2025-05-26T02:56:01Z",
         "updated_at": "2025-05-26T03:46:27Z",
-        "forks_count": 0,
+        "forks_count": 1,
         "stars_count": 0,
         "watchers_count": 0,
         "language": "Jupyter Notebook",
