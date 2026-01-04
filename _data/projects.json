@@ -9883,10 +9883,10 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e16-co502-RV32IM-pipeline-implementation-group1",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
         "created_at": "2021-06-30T16:54:58Z",
-        "updated_at": "2025-09-19T07:28:56Z",
+        "updated_at": "2025-12-31T12:48:57Z",
         "forks_count": 4,
-        "stars_count": 26,
-        "watchers_count": 26,
+        "stars_count": 25,
+        "watchers_count": 25,
         "language": "Verilog",
         "topics": [
             "computer-architecture",
@@ -12559,10 +12559,10 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e17-4yp-Music-Emotion-Recognition",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2023-05-23T02:45:24Z",
-        "updated_at": "2025-01-24T16:56:33Z",
+        "updated_at": "2025-12-30T07:19:16Z",
         "forks_count": 3,
-        "stars_count": 1,
-        "watchers_count": 1,
+        "stars_count": 2,
+        "watchers_count": 2,
         "language": "Jupyter Notebook",
         "topics": [],
         "has_projects": true,
@@ -25306,10 +25306,10 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e19-3yp-beehive-monitoring-system",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "created_at": "2023-11-16T08:48:44Z",
-        "updated_at": "2025-12-14T15:40:46Z",
+        "updated_at": "2025-12-31T10:13:13Z",
         "forks_count": 6,
-        "stars_count": 4,
-        "watchers_count": 4,
+        "stars_count": 3,
+        "watchers_count": 3,
         "language": "JavaScript",
         "topics": [
             "3yp",
@@ -25918,7 +25918,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2025-01-31T07:19:01Z",
-        "updated_at": "2025-10-30T11:48:26Z",
+        "updated_at": "2026-01-04T17:03:12Z",
         "forks_count": 3,
         "stars_count": 0,
         "watchers_count": 0,
@@ -27228,7 +27228,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2025-02-02T12:52:48Z",
-        "updated_at": "2025-12-26T17:36:36Z",
+        "updated_at": "2026-01-04T16:28:31Z",
         "forks_count": 0,
         "stars_count": 0,
         "watchers_count": 0,
@@ -36770,6 +36770,93 @@
             "Biomedical"
         ]
     },
+    "e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks": {
+        "projName": "Federated Agentic Defense For Zero Day Attacks",
+        "batch": "E20",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Agentic-Defense-For-Zero-Day-Attacks/",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "created_at": "2025-12-30T14:50:38Z",
+        "updated_at": "2025-12-30T15:54:07Z",
+        "forks_count": 1,
+        "stars_count": 0,
+        "watchers_count": 0,
+        "language": "Jupyter Notebook",
+        "topics": [],
+        "has_projects": true,
+        "has_wiki": true,
+        "has_pages": true,
+        "description": "Implementation of a Federated Agentic Framework for real-time, privacy-preserving mitigation of zero-day cyberattacks using distributed intelligence",
+        "team": {
+            "E/20/168": {
+                "name": "Jayasinghe B.V.R.R",
+                "email": "e20168@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/168",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20168.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/168/"
+            },
+            "E/20/272": {
+                "name": "Niroshan B.G.L",
+                "email": "e20272@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/272",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20272.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/272/"
+            },
+            "E/20/369": {
+                "name": "Seneviratne G.S.",
+                "email": "e20369@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/gssamuditha",
+                "linkedin": "https://www.linkedin.com/in/samuditha-seneviratne-bb65a1254",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/369",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20369.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/369/"
+            }
+        },
+        "supervisors": {
+            "namal@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "namal@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/suneth-namal-karunarathna.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/namal",
+                "website": "#",
+                "linkedin": "https://lk.linkedin.com/in/suneth-namal-b70b8688",
+                "researchgate": "https://www.researchgate.net/profile/Suneth-Namal",
+                "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
+            },
+            "upuljm@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "upuljm@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/upul-jayasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/upuljm/",
+                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+            }
+        },
+        "tags": [
+            "Federated Learning, Agentic Al"
+        ]
+    },
     "e20-4yp-Optimizing-Communication-Efficiency-and-Latency-in-Blockchain-Enabled-FL-Systems": {
         "projName": "Optimizing Communication Efficiency and Latency in Blockchain Enabled FL Systems",
         "batch": "E20",
@@ -36871,11 +36958,11 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2025-10-15T02:14:36Z",
-        "updated_at": "2025-12-28T15:32:39Z",
+        "updated_at": "2025-12-29T07:35:45Z",
         "forks_count": 1,
         "stars_count": 0,
         "watchers_count": 0,
-        "language": "C++",
+        "language": "Jupyter Notebook",
         "topics": [],
         "has_projects": true,
         "has_wiki": true,
@@ -36958,7 +37045,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-backdoor-resilient-federated-nids",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2025-10-17T14:49:32Z",
-        "updated_at": "2025-12-25T06:54:39Z",
+        "updated_at": "2026-01-04T11:25:22Z",
         "forks_count": 1,
         "stars_count": 0,
         "watchers_count": 0,
@@ -37031,6 +37118,34 @@
             "Final Year Projects"
         ]
     },
+    "e20-4yp-eHealth-Application-to-Detect-IHD-Using-ECG": {
+        "projName": "eHealth Application to Detect IHD Using ECG",
+        "batch": "E20",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-eHealth-Application-to-Detect-IHD-Using-ECG",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/eHealth-Application-to-Detect-IHD-Using-ECG/",
+        "page_url": "#",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-eHealth-Application-to-Detect-IHD-Using-ECG",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "created_at": "2025-12-29T10:15:45Z",
+        "updated_at": "2026-01-03T17:12:22Z",
+        "forks_count": 1,
+        "stars_count": 1,
+        "watchers_count": 1,
+        "language": "Jupyter Notebook",
+        "topics": [],
+        "has_projects": true,
+        "has_wiki": true,
+        "has_pages": false,
+        "description": "eHealth Application to detect Ischemic Heart Diseases using ECGs",
+        "team": {},
+        "supervisors": {},
+        "tags": {}
+    },
     "e20-4yp-symbolic-music-generation-with-xLSTM": {
         "projName": "symbolic music generation with xLSTM",
         "batch": "E20",
@@ -37057,6 +37172,104 @@
         "description": "",
         "team": {},
         "supervisors": {},
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
+    "e20-4yp-voice-enabled-llm-agentic-construction-scheduler": {
+        "projName": "voice enabled llm agentic construction scheduler",
+        "batch": "E20",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "created_at": "2026-01-02T05:02:52Z",
+        "updated_at": "2026-01-02T05:22:19Z",
+        "forks_count": 0,
+        "stars_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "topics": [],
+        "has_projects": true,
+        "has_wiki": true,
+        "has_pages": true,
+        "description": "An LLM-based system that allows users to describe a construction project using voice input and automatically generates a construction schedule.",
+        "team": {
+            "E/20/009": {
+                "name": "Ahemad I.I.",
+                "email": "e20009@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/009",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20009.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/009/"
+            },
+            "E/20/199": {
+                "name": "Ketharagan P",
+                "email": "e20199@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ketha29",
+                "linkedin": "https://www.linkedin.com/in/ketharagan-p-767b11204",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/199",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20199.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/199/"
+            },
+            "E/20/339": {
+                "name": "A.M.Rismy",
+                "email": "e20339@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/mrismy",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/339",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20339.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/339/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "upuljm@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "upuljm@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/upul-jayasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/upuljm/",
+                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+            },
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            }
+        },
         "tags": [
             "Final Year Projects"
         ]
@@ -39740,7 +39953,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
         "created_at": "2025-12-19T18:39:08Z",
-        "updated_at": "2025-12-19T19:28:29Z",
+        "updated_at": "2026-01-02T05:05:43Z",
         "forks_count": 0,
         "stars_count": 0,
         "watchers_count": 0,
@@ -40241,7 +40454,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e20-co543-ColorNet-Grayscale-image-colorization-project-using-AI-and-image-processing",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
         "created_at": "2025-02-01T09:21:17Z",
-        "updated_at": "2025-06-24T01:17:29Z",
+        "updated_at": "2025-12-30T08:53:26Z",
         "forks_count": 0,
         "stars_count": 0,
         "watchers_count": 0,
