@@ -44,6 +44,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/3D-Model-Construction-for-a-target-class-using-XAI-Group16/"
         }
     ],
+    "3YP": [
+        {
+            "title": "ResQ",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ResQ/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ResQ",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ResQ",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ResQ/"
+        }
+    ],
     "3yp": [
         {
             "title": "SafePlus",
@@ -129,6 +144,19 @@
         }
     ],
     "AI": [
+        {
+            "title": "AI Smart Assistant",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Smart-Assistant/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Smart-Assistant",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
+        },
         {
             "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
             "category": {
@@ -1128,7 +1156,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GiftBox-Customization-Marketplace/",
             "repo_url": "https://github.com/cepdnaclk/e23-co2060-GiftBox-Customization-Marketplace",
             "page_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GiftBox-Customization-Marketplace/"
         },
         {
@@ -1275,6 +1303,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Integrated-Ecommerce-Platform/"
         },
         {
+            "title": "AI Smart Assistant",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Smart-Assistant/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Smart-Assistant",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
+        },
+        {
             "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
             "category": {
                 "code": "co2060",
@@ -1325,19 +1366,6 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
-        },
-        {
-            "title": "NagroMS",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/NagroMS/",
-            "repo_url": "https://github.com/cepdnaclk/e22-co2060-NagroMS",
-            "page_url": "https://cepdnaclk.github.io/e22-co2060-NagroMS",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
         },
         {
             "title": "OrthoPAR Web Platform",
@@ -1735,6 +1763,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-04",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-04/"
+        }
+    ],
+    "CPR": [
+        {
+            "title": "ResQ",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ResQ/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ResQ",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ResQ",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ResQ/"
         }
     ],
     "CSS": [
@@ -3193,6 +3236,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
+        {
+            "title": "Measuring Light Intensity in a Company Before It Dies",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/"
         }
     ],
     "ESP32": [
@@ -3742,7 +3798,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
         },
         {
@@ -3835,19 +3891,6 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
-        },
-        {
-            "title": "RAID",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
         },
         {
             "title": "ReflectStudio",
@@ -8017,6 +8060,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/laboratory-environment-monitoring/"
         }
     ],
+    "Industrial network project": [
+        {
+            "title": "Measuring Light Intensity in a Company Before It Dies",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/"
+        }
+    ],
     "Infinion Tricore": [
         {
             "title": "Configurable ECU Emulator",
@@ -9546,6 +9604,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
         }
     ],
+    "Medical": [
+        {
+            "title": "ResQ",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ResQ/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ResQ",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ResQ",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ResQ/"
+        }
+    ],
     "Metagenomics": [
         {
             "title": "Multi Kingdom Binning of Long Read Metagenomes",
@@ -10696,6 +10769,19 @@
     ],
     "OCR": [
         {
+            "title": "AI Smart Assistant",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Smart-Assistant/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Smart-Assistant",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
+        },
+        {
             "title": "Handwritten_Essay_Marking_Software",
             "category": {
                 "code": "6sp",
@@ -11375,6 +11461,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co542-handwritten-character-recognition",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/handwritten-character-recognition/"
+        }
+    ],
+    "Python": [
+        {
+            "title": "AI Smart Assistant",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Smart-Assistant/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Smart-Assistant",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
         }
     ],
     "QR Scanning": [
@@ -12335,6 +12436,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co326-Water-Quality-Monitoring-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Water-Quality-Monitoring-System/"
+        },
+        {
+            "title": "Measuring Light Intensity in a Company Before It Dies",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/"
         }
     ],
     "SD19 Dataset": [
@@ -12817,7 +12931,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GiftBox-Customization-Marketplace/",
             "repo_url": "https://github.com/cepdnaclk/e23-co2060-GiftBox-Customization-Marketplace",
             "page_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GiftBox-Customization-Marketplace/"
         },
         {
@@ -13014,19 +13128,6 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
-        },
-        {
-            "title": "NagroMS",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/NagroMS/",
-            "repo_url": "https://github.com/cepdnaclk/e22-co2060-NagroMS",
-            "page_url": "https://cepdnaclk.github.io/e22-co2060-NagroMS",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
         },
         {
             "title": "OrthoPAR Web Platform",
@@ -13971,7 +14072,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GiftBox-Customization-Marketplace/",
             "repo_url": "https://github.com/cepdnaclk/e23-co2060-GiftBox-Customization-Marketplace",
             "page_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GiftBox-Customization-Marketplace/"
         },
         {
@@ -14168,19 +14269,6 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
-        },
-        {
-            "title": "NagroMS",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/NagroMS/",
-            "repo_url": "https://github.com/cepdnaclk/e22-co2060-NagroMS",
-            "page_url": "https://cepdnaclk.github.io/e22-co2060-NagroMS",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
         },
         {
             "title": "OrthoPAR Web Platform",
@@ -14842,7 +14930,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
         },
         {
@@ -14909,19 +14997,6 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
-        },
-        {
-            "title": "RAID",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
         },
         {
             "title": "ReflectStudio",
@@ -17224,7 +17299,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
         }
     ],
@@ -17323,7 +17398,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
         }
     ],
@@ -17338,7 +17413,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
         }
     ],
