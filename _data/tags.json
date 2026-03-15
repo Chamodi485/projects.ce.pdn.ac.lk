@@ -1225,6 +1225,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
         },
         {
+            "title": "PowerShare SL",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PowerShare-SL/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-PowerShare-SL",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-PowerShare-SL",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PowerShare-SL/"
+        },
+        {
             "title": "Project KNOT",
             "category": {
                 "code": "co2060",
@@ -4643,7 +4656,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
         },
         {
@@ -6252,6 +6265,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
+        },
+        {
+            "title": "wifi 7 backoff security testing and threat prediction",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/wifi-7-backoff-security-testing-and-threat-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-4yp-wifi-7-backoff-security-testing-and-threat-prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-4yp-wifi-7-backoff-security-testing-and-threat-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/wifi-7-backoff-security-testing-and-threat-prediction/"
         },
         {
             "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
@@ -9012,6 +9038,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co542-Detect-AI-vs-Human-Generated-Images",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Detect-AI-vs-Human-Generated-Images/"
+        },
+        {
+            "title": "heart disease prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/heart-disease-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-heart-disease-prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-heart-disease-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/heart-disease-prediction/"
         }
     ],
     "MLOPS": [
@@ -9656,6 +9695,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-ResQ",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ResQ/"
+        },
+        {
+            "title": "heart disease prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/heart-disease-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-heart-disease-prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-heart-disease-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/heart-disease-prediction/"
         }
     ],
     "Metagenomics": [
@@ -13039,6 +13091,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
         },
         {
+            "title": "PowerShare SL",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PowerShare-SL/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-PowerShare-SL",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-PowerShare-SL",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PowerShare-SL/"
+        },
+        {
             "title": "Project KNOT",
             "category": {
                 "code": "co2060",
@@ -15359,7 +15424,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
             "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
         },
         {
@@ -16323,6 +16388,19 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-PearlPath",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
+        },
+        {
+            "title": "PowerShare SL",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PowerShare-SL/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-PowerShare-SL",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-PowerShare-SL",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PowerShare-SL/"
         },
         {
             "title": "Project KNOT",
