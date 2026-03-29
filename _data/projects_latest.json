@@ -1,286 +1,386 @@
 {
-    "e21-3yp-RAID": {
-        "projName": "RAID",
-        "batch": "E21",
+    "e16-3yp-agribot": {
+        "projName": "agribot",
+        "batch": "E16",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         },
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
-        "project_url": "/3yp/e21/RAID/",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e21-3yp-RAID",
+        "repo_url": "https://github.com/cepdnaclk/e16-3yp-agribot",
+        "project_url": "/3yp/e16/agribot/",
+        "page_url": "https://cepdnaclk.github.io/e16-3yp-agribot",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e16-3yp-agribot",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "created_at": "2026-01-25T18:51:50Z",
-        "updated_at": "2026-03-15T18:40:58Z",
-        "forks_count": 0,
-        "stars_count": 0,
-        "watchers_count": 0,
-        "language": "TypeScript",
+        "created_at": "2020-10-17T05:26:03Z",
+        "updated_at": "2026-03-28T12:11:53Z",
+        "forks_count": 6,
+        "stars_count": 5,
+        "watchers_count": 5,
+        "language": "Java",
         "topics": [],
         "has_projects": true,
         "has_wiki": true,
         "has_pages": true,
-        "description": "This autonomous IoT robot modernizes railway safety by detecting track cracks in real-time. Equipped with IR and ultrasonic sensors, it identifies defects and captures GPS-tagged images via an onboard camera. Alerts are instantly sent to a cloud dashboard, enabling proactive, risk-free maintenance.",
+        "description": "Autonomous Agricultural Robot",
         "team": {},
         "supervisors": {},
         "tags": {},
-        "name": "e21-3yp-RAID"
+        "name": "e16-3yp-agribot"
     },
-    "e21-3yp-CluckNet": {
-        "projName": "CluckNet",
-        "batch": "E21",
+    "e18-3yp-Patient-Monitoring-System-for-Ambulances": {
+        "projName": "Patient Monitoring System for Ambulances",
+        "batch": "E18",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         },
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-CluckNet",
-        "project_url": "/3yp/e21/CluckNet/",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-CluckNet",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e21-3yp-CluckNet",
+        "repo_url": "https://github.com/cepdnaclk/e18-3yp-Patient-Monitoring-System-for-Ambulances",
+        "project_url": "/3yp/e18/Patient-Monitoring-System-for-Ambulances/",
+        "page_url": "https://cepdnaclk.github.io/e18-3yp-Patient-Monitoring-System-for-Ambulances",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e18-3yp-Patient-Monitoring-System-for-Ambulances",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "created_at": "2026-02-08T04:14:29Z",
-        "updated_at": "2026-03-15T15:39:39Z",
-        "forks_count": 1,
-        "stars_count": 0,
-        "watchers_count": 0,
-        "language": null,
-        "topics": [],
-        "has_projects": true,
-        "has_wiki": true,
-        "has_pages": true,
-        "description": "A Smart IoT-Based Chicken Farm System uses sensors and an ESP32 to monitor temperature, humidity, and harmful gases. It automatically controls the environment and shows real-time data on a dashboard, helping farmers improve poultry health and productivity",
-        "team": {},
-        "supervisors": {},
-        "tags": {},
-        "name": "e21-3yp-CluckNet"
-    },
-    "e20-4yp-backdoor-resilient-federated-nids": {
-        "projName": "backdoor resilient federated nids",
-        "batch": "E20",
-        "category": {
-            "title": "Undergraduate Research Projects",
-            "code": "4yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-        },
-        "repo_url": "https://github.com/cepdnaclk/e20-4yp-backdoor-resilient-federated-nids",
-        "project_url": "/4yp/e20/backdoor-resilient-federated-nids/",
-        "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-backdoor-resilient-federated-nids",
-        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "created_at": "2025-10-17T14:49:32Z",
-        "updated_at": "2026-03-15T12:51:45Z",
+        "created_at": "2022-11-02T05:14:38Z",
+        "updated_at": "2026-03-26T10:49:32Z",
         "forks_count": 3,
-        "stars_count": 1,
-        "watchers_count": 1,
-        "language": "Jupyter Notebook",
+        "stars_count": 6,
+        "watchers_count": 6,
+        "language": "Dart",
         "topics": [],
         "has_projects": true,
         "has_wiki": true,
         "has_pages": true,
-        "description": "Backdoor-Resilient Federated Learning for Network Intrusion Detection Systems",
+        "description": "This is an IoT based real time patient monitoring device along with the ambulance location tracking system.",
         "team": {
-            "E/20/055": {
-                "name": "Dineth Shakya",
-                "email": "e20055@eng.pdn.ac.lk",
+            "E/18/022": {
+                "name": "Didula Induwara",
+                "email": "e18022@eng.pdn.ac.lk",
+                "website": "https://sites.google.com/view/didula-induwara/home",
+                "github": "https://github.com/Didula98",
+                "linkedin": "https://www.linkedin.com/in/didula-induwara-885054243/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/022",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18022.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/022/"
+            },
+            "E/18/318": {
+                "name": "Piyumali Sandunika",
+                "email": "e18318@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/PiyumaliSandunika",
+                "linkedin": "https://www.linkedin.com/in/piyumali-sandunika-08b239203/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/318",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18318.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/318/"
+            },
+            "E/18/354": {
+                "name": "Ruchira Tharaka",
+                "email": "e18354@eng.pdn.ac.lk",
+                "website": "https://dev-ruchira-tharaka.pantheonsite.io/",
+                "github": "https://github.com/RuchiraTharaka",
+                "linkedin": "https://www.linkedin.com/in/ruchira-tharaka-51423b212/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/354",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18354.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/354/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ],
+        "name": "e18-3yp-Patient-Monitoring-System-for-Ambulances"
+    },
+    "e17-3yp-E-Parking-System": {
+        "projName": "E Parking System",
+        "batch": "E17",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "repo_url": "https://github.com/cepdnaclk/e17-3yp-E-Parking-System",
+        "project_url": "/3yp/e17/E-Parking-System/",
+        "page_url": "https://cepdnaclk.github.io/e17-3yp-E-Parking-System",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e17-3yp-E-Parking-System",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "created_at": "2021-06-22T07:46:02Z",
+        "updated_at": "2026-03-26T08:00:30Z",
+        "forks_count": 4,
+        "stars_count": 7,
+        "watchers_count": 7,
+        "language": "JavaScript",
+        "topics": [],
+        "has_projects": true,
+        "has_wiki": true,
+        "has_pages": true,
+        "description": "An autonomous system for assigning and managing parking spots and payments in a car park. https://cepdnaclk.github.io/e17-3yp-E-Parking-System/",
+        "team": {
+            "E/17/018": {
+                "name": "Imesh Balasuriya",
+                "email": "e17018@eng.pdn.ac.lk",
+                "website": "https://www.imesh.tech",
+                "github": "https://github.com/ImeshBalasuriya/",
+                "linkedin": "https://www.linkedin.com/in/imesh-balasuriya/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/018",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17018.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/018/"
+            },
+            "E/17/251": {
+                "name": "Sandun Sanjaya Perera",
+                "email": "e17251@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
                 "linkedin": "",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/055",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20055.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/055/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/251",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17251.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/251/"
             },
-            "E/20/094": {
-                "name": "Ishara Ekanayaka",
-                "email": "e20094@eng.pdn.ac.lk",
+            "E/17/296": {
+                "name": "Ravisha Hasangi Rupasinghe",
+                "email": "e17296@eng.pdn.ac.lk",
                 "website": "",
-                "github": "https://github.com/IsharaEkanayaka",
-                "linkedin": "https://www.linkedin.com/in/ishara-ekanayaka-a6a647229/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/094",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20094.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/094/"
-            },
-            "E/20/284": {
-                "name": "Sandalu Umayanga",
-                "email": "e20284@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/sandalu284",
+                "github": "",
                 "linkedin": "",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/284",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20284.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/284/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/296",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17296.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/296/"
             }
         },
         "supervisors": {
-            "namal@eng.pdn.ac.lk": {
-                "name": "Dr. Suneth Namal Karunarathna",
-                "email": "namal@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/suneth-namal-karunarathna.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/namal",
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
                 "website": "#",
-                "linkedin": "https://lk.linkedin.com/in/suneth-namal-b70b8688",
-                "researchgate": "https://www.researchgate.net/profile/Suneth-Namal",
-                "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
             },
-            "upuljm@eng.pdn.ac.lk": {
-                "name": "Dr. Upul Jayasinghe",
-                "email": "upuljm@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/upul-jayasinghe.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
                 "website": "#",
-                "linkedin": "https://www.linkedin.com/in/upuljm/",
-                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
-                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
             }
         },
         "tags": [
-            "Final Year Projects"
+            "Web",
+            "Embedded Systems"
         ],
-        "name": "e20-4yp-backdoor-resilient-federated-nids"
+        "name": "e17-3yp-E-Parking-System"
     },
-    "e20-4yp-AI-legal-chain-resolver-II": {
-        "projName": "AI legal chain resolver II",
-        "batch": "E20",
+    "e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface": {
+        "projName": "Enhancing Video Game Experience With Brain Computer Interface",
+        "batch": "E16",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
-        "project_url": "/4yp/e20/AI-legal-chain-resolver-II/",
-        "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
+        "project_url": "/4yp/e16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/",
+        "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "created_at": "2026-01-26T02:25:38Z",
-        "updated_at": "2026-03-14T18:45:51Z",
-        "forks_count": 1,
-        "stars_count": 0,
-        "watchers_count": 0,
+        "created_at": "2022-07-23T19:18:08Z",
+        "updated_at": "2026-03-24T15:19:54Z",
+        "forks_count": 2,
+        "stars_count": 5,
+        "watchers_count": 5,
         "language": "Jupyter Notebook",
-        "topics": [],
+        "topics": [
+            "eeg",
+            "eeg-classification",
+            "game",
+            "nueral-networks"
+        ],
         "has_projects": true,
         "has_wiki": true,
         "has_pages": true,
-        "description": "This project is an AI based legal reasoning system specifically designed for Sri Lankan law in the Sinhala language. It integrates Sinhala focused Retrieval-Augmented Generation (RAG), a Knowledge Graph , and a Multi Agent System to process laws, court judgments, and legal documents written in Sinhala.",
+        "description": "Developing a video game interface that uses the brain-computer interface (BCI) based on electroencephalography (EEG).",
         "team": {
-            "E/20/248": {
-                "name": "Mapagedara T.L.B",
-                "email": "e20248@eng.pdn.ac.lk",
+            "E/16/012": {
+                "name": "Isurika Adikari",
+                "email": "e16012@eng.pdn.ac.lk",
                 "website": "",
-                "github": "https://github.com/Tharindu09",
-                "linkedin": "https://www.linkedin.com/in/tharindu-mapagedara-6119572a0/",
+                "github": "",
+                "linkedin": "",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/248",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20248.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/248/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/012",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16012.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/012/"
             },
-            "E/20/453": {
-                "name": "Yogesh R.J",
-                "email": "e20453@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/janithyogesh",
-                "linkedin": "https://www.linkedin.com/in/janith-rathuge-6242a7260",
+            "E/16/081": {
+                "name": "J.M.Praveen Dhananjaya",
+                "email": "e16081@eng.pdn.ac.lk",
+                "website": "https://sites.google.com/view/praveen-dhananjaya",
+                "github": "https://github.com/praveendhananjaya",
+                "linkedin": "https://www.linkedin.com/in/praveen-dhananjaya-55816015a",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/453",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20453.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/453/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/081",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16081.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/081/"
+            },
+            "E/16/200": {
+                "name": "Sumudu Liyanage",
+                "email": "e16200@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sumuduliyanage",
+                "linkedin": "https://www.linkedin.com/in/sumudu-liyanage",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/200",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16200.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/200/"
             }
         },
         "supervisors": {
-            "damayanthiherath@eng.pdn.ac.lk": {
-                "name": "Dr. Damayanthi Herath",
-                "email": "damayanthiherath@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/damayanthi-herath.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
                 "website": "#",
-                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
-                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
-                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
             },
-            "yasodhav@eng.pdn.ac.lk": {
-                "name": "Ms. Yasodha Vimukthi",
-                "email": "yasodhav@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
                 "website": "#",
-                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            },
+            "theekshanadis@eng.pdn.ac.lk": {
+                "name": "Mr. Theekshana Dissanayake",
+                "email": "theekshanadis@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
                 "researchgate": "#",
                 "google_scholar": "#"
             }
         },
         "tags": [
-            "Final Year Projects",
-            "MultiAgentSystem",
-            "AI"
+            "EEG",
+            "Signal Processing",
+            "Neural Network",
+            "brain computer interface"
         ],
-        "name": "e20-4yp-AI-legal-chain-resolver-II"
+        "name": "e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface"
     },
-    "e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education": {
-        "projName": "ai driven automated feedback and tutoring system for higher education",
+    "e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP": {
+        "projName": "Reducing Context Switching Latency in RTES Using RFP",
         "batch": "E20",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
-        "project_url": "/4yp/e20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/",
-        "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
+        "project_url": "/4yp/e20/Reducing-Context-Switching-Latency-in-RTES-Using-RFP/",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "created_at": "2026-02-15T19:19:49Z",
-        "updated_at": "2026-03-14T18:18:41Z",
+        "created_at": "2026-01-03T09:07:12Z",
+        "updated_at": "2026-03-24T14:00:54Z",
         "forks_count": 0,
         "stars_count": 0,
         "watchers_count": 0,
-        "language": "Jupyter Notebook",
+        "language": "C",
         "topics": [],
         "has_projects": true,
         "has_wiki": true,
         "has_pages": true,
-        "description": "AI-Driven Automated Feedback System integrated with Moodle. Features deadline-aware grading, multi-agent LLM-based evaluation, vector-based plagiarism detection, concept-level personalization, and full end-to-end automation from submission ingestion to structured feedback generation and grade return.",
+        "description": "FYP - Reducing context switching latency in RTES",
         "team": {
-            "E/20/089": {
-                "name": "Y.H. Edirimanna",
-                "email": "e20089@eng.pdn.ac.lk",
+            "E/20/032": {
+                "name": "A.M.N.C. Bandara",
+                "email": "e20032@eng.pdn.ac.lk",
                 "website": "",
-                "github": "https://github.com/YasiruHarinda",
-                "linkedin": "https://www.linkedin.com/in/yasiru-edirimanna-836aa3193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "github": "https://github.com/ChethiyaB",
+                "linkedin": "https://www.linkedin.com/in/chethiyab/",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/089",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20089.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/089/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/032",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20032.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/032/"
             },
-            "E/20/361": {
-                "name": "Y.H. Senadheera",
-                "email": "e20361@eng.pdn.ac.lk",
-                "website": "yohan-senadheera.pages.dev",
-                "github": "https://github.com/yohan-senadheera",
-                "linkedin": "https://www.linkedin.com/in/yohan-senadheera",
+            "E/20/157": {
+                "name": "S.M.B.G. Janakantha",
+                "email": "e20157@eng.pdn.ac.lk",
+                "website": "https://www.thecn.com/BJ448",
+                "github": "https://github.com/Bimsara-Janakantha",
+                "linkedin": "https://www.linkedin.com/in/Bimsara-Janakantha/",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/361",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20361.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/361/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/157",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20157.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/157/"
             },
-            "E/20/366": {
-                "name": "A.P.B.P. Senevirathna",
-                "email": "e20366@eng.pdn.ac.lk",
+            "E/20/254": {
+                "name": "S.K.P. Methpura",
+                "email": "e20254@eng.pdn.ac.lk",
                 "website": "",
-                "github": "https://github.com/bhagyaseela",
+                "github": "https://github.com/KavinduMethpura",
                 "linkedin": "",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/366",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20366.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/366/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/254",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20254.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/254/"
             }
         },
         "supervisors": {
@@ -295,9 +395,20 @@
                 "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
                 "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
             },
-            "sakuyatigammana@arts.pdn.ac.lk": {
-                "name": "Prof. Sakunthala Yatigammana",
-                "email": "sakuyatigammana@arts.pdn.ac.lk",
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "e16088@eng.pdn.ac.lk": {
+                "name": "Mr. D.M.T.H. Dissanayake",
+                "email": "e16088@eng.pdn.ac.lk",
                 "profile_url": "#",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
                 "api_url": "#",
@@ -308,84 +419,208 @@
             }
         },
         "tags": [
-            "Final Year Project",
-            "Artificial Intelligence",
-            "Automated Grading",
-            "Moodle Integration",
-            "LLM",
-            "Plagiarism Detection",
-            "Education Technology"
+            "Final Year Reasearch Project",
+            "Embedded Systems",
+            "RISCV",
+            "FreeRTOS",
+            "CVA6",
+            "ESCAL"
         ],
-        "name": "e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education"
+        "name": "e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP"
     },
-    "e20-co227-Postgraduate-Student-Management-System": {
-        "projName": "Postgraduate Student Management System",
-        "batch": "E20",
+    "e19-co225-Baby-Developement-Tracking-System-Mobileapplication": {
+        "projName": "Baby Developement Tracking System Mobileapplication",
+        "batch": "E19",
         "category": {
-            "title": "Software Systems Projects",
-            "code": "co227",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            "title": "Software Constructions Projects (CO225)",
+            "code": "co225",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
         },
-        "repo_url": "https://github.com/cepdnaclk/e20-co227-Postgraduate-Student-Management-System",
-        "project_url": "/co227/e20/Postgraduate-Student-Management-System/",
-        "page_url": "https://cepdnaclk.github.io/e20-co227-Postgraduate-Student-Management-System",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e20-co227-Postgraduate-Student-Management-System",
-        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-        "created_at": "2024-09-19T06:29:47Z",
-        "updated_at": "2026-03-14T11:29:33Z",
-        "forks_count": 0,
-        "stars_count": 2,
-        "watchers_count": 2,
-        "language": "TypeScript",
-        "topics": [],
+        "repo_url": "https://github.com/cepdnaclk/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
+        "project_url": "/co225/e19/Baby-Developement-Tracking-System-Mobileapplication/",
+        "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+        "created_at": "2023-05-25T14:31:07Z",
+        "updated_at": "2026-03-24T11:40:28Z",
+        "forks_count": 7,
+        "stars_count": 4,
+        "watchers_count": 4,
+        "language": "Java",
+        "topics": [
+            "co225-projects",
+            "e19-co225-projects"
+        ],
         "has_projects": true,
         "has_wiki": true,
         "has_pages": true,
-        "description": "The Post Graduate Students management system is an effort to enhance the administrative efficiency and academic tracking within the Department of Computer Engineering at University of Peradeniya.",
+        "description": "The Baby Development Tracking System is a mobile application designed to assist parents, guardians, public health midwives (PHMs), and doctors in tracking and managing the development of babies from 0 to 5 years old.",
         "team": {
-            "E/20/197": {
-                "name": "A.H.D. Kawya",
-                "email": "e20197@eng.pdn.ac.lk",
+            "E/19/057": {
+                "name": "Chamath Colombage",
+                "email": "e19057@eng.pdn.ac.lk",
                 "website": "",
-                "github": "https://github.com/dasunikawya2001",
-                "linkedin": "https://www.linkedin.com/in/dasuni-kawya-1a72b72a0/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmH7G6PCCQlyUYV7wiGhOkg%3D%3D",
+                "github": "https://github.com/CColombus",
+                "linkedin": "",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/197",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20197.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/197/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/057",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19057.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/057/"
             },
-            "E/20/211": {
-                "name": "K.W.I.T. Kumarasinghe",
-                "email": "e20211@eng.pdn.ac.lk",
+            "E/19/443": {
+                "name": "Dasun Theekshana",
+                "email": "e19443@eng.pdn.ac.lk",
+                "website": "https://dasuntheekshanagit.github.io/eportfolio/",
+                "github": "https://github.com/dasuntheekshanagit",
+                "linkedin": "https://www.linkedin.com/in/dasun-theekshana-806643156/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/443",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19443.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/443/"
+            },
+            "E/19/003": {
+                "name": "Harith Abeysinghe",
+                "email": "e19003@eng.pdn.ac.lk",
                 "website": "",
-                "github": "https://github.com/ishann211",
-                "linkedin": "https://www.linkedin.com/in/ishan-kumarasinghe",
+                "github": "https://github.com/harith-abeysinghe",
+                "linkedin": "http://www.linkedin.com/in/harith-abeysinghe-0605651b1/",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/211",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20211.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/211/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/003",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19003.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/003/"
             },
-            "E/20/212": {
-                "name": "R.M.S.H. Kumarasinghe",
-                "email": "e20212@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/sameera-87",
-                "linkedin": "https://www.linkedin.com/in/sameera-kumarasinghe-98b70526a/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/212",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20212.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/212/"
-            },
-            "E/20/242": {
-                "name": "G.A.I. Malinga",
-                "email": "e20242@eng.pdn.ac.lk",
+            "E/19/017": {
+                "name": "Amanda W.S.",
+                "email": "e19017@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
                 "linkedin": "",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/242",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20242.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/242/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/017",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19017.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/017/"
+            },
+            "E/19/205": {
+                "name": "Sahan Nimantha",
+                "email": "e19205@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/SahanNimantha99",
+                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-1523622a7/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/205",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19205.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/205/"
+            },
+            "E/19/004": {
+                "name": "Ravindu Abeysinghe",
+                "email": "e19004@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RavinduBA",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/004",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19004.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/004/"
+            },
+            "E/19/409": {
+                "name": "Dineth Udugamsooriya",
+                "email": "e19409@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/409",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19409.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/409/"
+            },
+            "E/19/455": {
+                "name": "Yashan W. V.",
+                "email": "e19455@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/455",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19455.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/455/"
+            }
+        },
+        "supervisors": {
+            "nadeeshaa@eng.pdn.ac.lk": {
+                "name": "Mrs. Nadeesha Adikari",
+                "email": "nadeeshaa@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/nadeesha-adikari/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/nadeesha-adikari.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/nadeeshaa",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/nadeesha-adikari-48864961/",
+                "researchgate": "https://www.researchgate.net/profile/Nadeesha-Adikari",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "co225",
+            "mobile"
+        ],
+        "name": "e19-co225-Baby-Developement-Tracking-System-Mobileapplication"
+    },
+    "e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry": {
+        "projName": "Virtual Patient Simulator for Skill Training in Dentistry",
+        "batch": "E18",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "repo_url": "https://github.com/cepdnaclk/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+        "project_url": "/4yp/e18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+        "page_url": "https://cepdnaclk.github.io/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "created_at": "2024-01-06T06:41:11Z",
+        "updated_at": "2026-03-23T08:37:19Z",
+        "forks_count": 4,
+        "stars_count": 2,
+        "watchers_count": 2,
+        "language": "JavaScript",
+        "topics": [],
+        "has_projects": true,
+        "has_wiki": true,
+        "has_pages": true,
+        "description": "Virtual patient simulator for skill training in dentistry",
+        "team": {
+            "E/18/013": {
+                "name": "R.Abilash",
+                "email": "e18013@eng.pdn.ac.lk",
+                "website": "https://ravindranabilash.github.io/",
+                "github": "https://github.com/RavindranAbilash",
+                "linkedin": "https://www.linkedin.com/in/ravindran-abilash/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/013",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/013/"
+            },
+            "E/18/115": {
+                "name": "A.Gowsigan",
+                "email": "e18115@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/115",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18115.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/115/"
+            },
+            "E/18/203": {
+                "name": "K.G.A.S.Madhusanka",
+                "email": "e18203@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sheiiz",
+                "linkedin": "https://www.linkedin.com/in/shehan-madhusanka-b7663b229",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/203",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18203.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/203/"
             }
         },
         "supervisors": {
@@ -399,90 +634,35 @@
                 "linkedin": "https://www.linkedin.com/in/upuljm/",
                 "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
                 "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
-            }
-        },
-        "tags": [
-            "Web"
-        ],
-        "name": "e20-co227-Postgraduate-Student-Management-System"
-    },
-    "e21-3yp-HYDRA": {
-        "projName": "HYDRA",
-        "batch": "E21",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-HYDRA",
-        "project_url": "/3yp/e21/HYDRA/",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-HYDRA",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e21-3yp-HYDRA",
-        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "created_at": "2026-01-25T13:28:37Z",
-        "updated_at": "2026-03-14T08:07:12Z",
-        "forks_count": 0,
-        "stars_count": 0,
-        "watchers_count": 0,
-        "language": "JavaScript",
-        "topics": [],
-        "has_projects": true,
-        "has_wiki": true,
-        "has_pages": true,
-        "description": "HYDRA- Smart Traffic Light Control System",
-        "team": {
-            "E/21/196": {
-                "name": "Diwyanjali Jayasooriya",
-                "email": "e21196@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/Diwyajayasooriya",
-                "linkedin": "https://www.linkedin.com/in/diwyanjali-jayasooriya-92ba26250",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/196",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21196.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/196/"
             },
-            "E/21/289": {
-                "name": "Samadhini Perera",
-                "email": "e21289@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/289",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21289.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/289/"
-            },
-            "E/21/193": {
-                "name": "Vedangi Nadeeshani",
-                "email": "e21193@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/193",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21193.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/193/"
-            }
-        },
-        "supervisors": {
-            "yasodhav@eng.pdn.ac.lk": {
-                "name": "Ms. Yasodha Vimukthi",
-                "email": "yasodhav@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
                 "website": "#",
-                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "dhanulb@dental.pdn.ac.lk": {
+                "name": "Dr. D Leuke Bandara",
+                "email": "dhanulb@dental.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
                 "researchgate": "#",
                 "google_scholar": "#"
             },
-            "e19489@eng.pdn.ac.lk": {
-                "name": "Thiliru Samaradiwakara",
-                "email": "e19489@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/temporary-academic-staff/thiliru-samaradiwakara.jpeg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/e19489",
+            "dgs@ucsc.cmb.ac.lk": {
+                "name": "Dr.  Dilrukshi Gamage",
+                "email": "dgs@ucsc.cmb.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
                 "website": "#",
                 "linkedin": "#",
                 "researchgate": "#",
@@ -490,38 +670,44 @@
             }
         },
         "tags": [
-            "Web",
-            "Embedded Systems"
+            "Final Year Projects"
         ],
-        "name": "e21-3yp-HYDRA"
+        "name": "e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry"
     },
-    "e20-4yp-onchip-offline-neuromorphic-computing": {
-        "projName": "onchip offline neuromorphic computing",
-        "batch": "E20",
+    "e16-3yp-smart-shopping-cart-with-automatic-bill-system": {
+        "projName": "smart shopping cart with automatic bill system",
+        "batch": "E16",
         "category": {
-            "title": "Undergraduate Research Projects",
-            "code": "4yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         },
-        "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
-        "project_url": "/4yp/e20/onchip-offline-neuromorphic-computing/",
-        "page_url": "#",
-        "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
-        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "created_at": "2025-12-26T18:29:45Z",
-        "updated_at": "2026-03-14T05:10:51Z",
-        "forks_count": 1,
-        "stars_count": 0,
-        "watchers_count": 0,
-        "language": "Jupyter Notebook",
-        "topics": [],
+        "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-shopping-cart-with-automatic-bill-system",
+        "project_url": "/3yp/e16/smart-shopping-cart-with-automatic-bill-system/",
+        "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-shopping-cart-with-automatic-bill-system",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e16-3yp-smart-shopping-cart-with-automatic-bill-system",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "created_at": "2020-10-16T19:16:02Z",
+        "updated_at": "2026-03-22T17:44:12Z",
+        "forks_count": 4,
+        "stars_count": 7,
+        "watchers_count": 7,
+        "language": "Dart",
+        "topics": [
+            "app",
+            "cart",
+            "computer-engineering",
+            "shopper",
+            "supermarket",
+            "supermarket-management"
+        ],
         "has_projects": true,
         "has_wiki": true,
-        "has_pages": false,
-        "description": "",
+        "has_pages": true,
+        "description": "This project is about smart shopping system.The overall project comprises of a smart shopping cart which is capable of automatic billing.To manage the carts inside the shopping area  we introduce a desktop app for the supermarket management .We also introduced a mobile app and a web app which synchronises with the shopping cart  makes the shopping experience smarter.",
         "team": {},
         "supervisors": {},
         "tags": {},
-        "name": "e20-4yp-onchip-offline-neuromorphic-computing"
+        "name": "e16-3yp-smart-shopping-cart-with-automatic-bill-system"
     }
 }
