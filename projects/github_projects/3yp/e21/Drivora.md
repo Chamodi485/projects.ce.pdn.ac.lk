@@ -2,7 +2,9 @@
 layout: project_page
 title: Drivora
 permalink: /3yp/e21/Drivora/
-description: Distributed Universal Advanced Driver Assistant System
+description: Drivora is a distributed retrofit Universal Advanced Driver Assistant
+  System designed to modernize legacy passenger vehicles and enhance the safety of
+  heavy commercial transport.
 has_children: false
 parent: E21 Cyber-Physical Systems Projects
 grand_parent: Cyber-Physical Systems Projects
@@ -16,4 +18,4 @@ stars: 0
 started_on: '2026-02-07T10:51:40Z'
 ---
 
-Distributed Universal Advanced Driver Assistant System
+Drivora is a distributed retrofit Universal Advanced Driver Assistant System designed to modernize legacy passenger vehicles and enhance the safety of heavy commercial transport.
