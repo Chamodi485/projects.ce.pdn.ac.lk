@@ -1,15 +1,15 @@
 ---
 layout: project_page
-title: RoboZen404 medico forensic dbms
-permalink: /co226/e22/RoboZen404-medico-forensic-dbms/
+title: ForensicSys Medico Forensic DBMS
+permalink: /co226/e22/ForensicSys-Medico-Forensic-DBMS/
 description: ''
 has_children: false
 parent: E22 Database Projects (CO226)
 grand_parent: Database Projects (CO226)
 cover_url: /data/categories/co226/cover_page.jpg
 thumbnail_url: /data/categories/co226/thumbnail.jpg
-repo_url: https://github.com/cepdnaclk/e22-co226-RoboZen404-medico-forensic-dbms
-page_url: blank
+repo_url: https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS
+page_url: https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS
 forks: 0
 watchers: 0
 stars: 0
