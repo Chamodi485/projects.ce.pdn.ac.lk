@@ -6144,9 +6144,69 @@
         "has_wiki": true,
         "has_pages": true,
         "description": "",
-        "team": {},
-        "supervisors": {},
-        "tags": {}
+        "team": {
+            "E/16/083": {
+                "name": "Dhanushka S.M.V.",
+                "email": "e16083@eng.pdn.ac.lk",
+                "website": "https://studentambassadors.microsoft.com/en-US/profile/154961",
+                "github": "https://github.com/viradhanus",
+                "linkedin": "https://www.linkedin.com/in/viradhanus/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/083",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16083.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/083/"
+            },
+            "E/16/368": {
+                "name": "Thisanke M.K.H.",
+                "email": "e16368@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/368",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16368.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/368/"
+            },
+            "E/16/200": {
+                "name": "Sumudu Liyanage",
+                "email": "e16200@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sumuduliyanage",
+                "linkedin": "https://www.linkedin.com/in/sumudu-liyanage",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/200",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16200.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/200/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "upuljm@eng.pdn.ac.lk": {
+                "name": "Dr. Upul Jayasinghe",
+                "email": "upuljm@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/upul-jayasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/upuljm/",
+                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
     },
     "e16-3yp-full-body-motion-tracking-system": {
         "projName": "full body motion tracking system",
@@ -8131,10 +8191,10 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2022-07-25T07:37:54Z",
-        "updated_at": "2026-01-19T01:11:15Z",
+        "updated_at": "2026-08-17T01:57:04Z",
         "forks_count": 6,
-        "stars_count": 8,
-        "watchers_count": 8,
+        "stars_count": 9,
+        "watchers_count": 9,
         "language": "Jupyter Notebook",
         "topics": [],
         "has_projects": true,
@@ -10658,7 +10718,7 @@
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "created_at": "2021-06-26T09:08:07Z",
         "updated_at": "2025-11-14T18:19:22Z",
-        "forks_count": 5,
+        "forks_count": 6,
         "stars_count": 5,
         "watchers_count": 5,
         "language": "JavaScript",
@@ -12586,10 +12646,10 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2023-05-19T16:39:40Z",
-        "updated_at": "2026-08-15T10:47:23Z",
+        "updated_at": "2026-08-19T15:39:21Z",
         "forks_count": 8,
-        "stars_count": 23,
-        "watchers_count": 23,
+        "stars_count": 21,
+        "watchers_count": 21,
         "language": "Verilog",
         "topics": [],
         "has_projects": true,
@@ -25246,7 +25306,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e19-3yp-beehive-monitoring-system",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "created_at": "2023-11-16T08:48:44Z",
-        "updated_at": "2026-01-09T00:23:28Z",
+        "updated_at": "2026-08-19T04:53:20Z",
         "forks_count": 6,
         "stars_count": 4,
         "watchers_count": 4,
@@ -25453,7 +25513,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e19-3yp-smart-supermarket-navigation-system",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "created_at": "2023-11-18T07:17:29Z",
-        "updated_at": "2025-06-11T09:22:41Z",
+        "updated_at": "2026-08-17T03:49:50Z",
         "forks_count": 3,
         "stars_count": 1,
         "watchers_count": 1,
@@ -26982,6 +27042,82 @@
                 "linkedin": "https://www.linkedin.com/in/dsdeegalla",
                 "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
                 "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
+    "e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs": {
+        "projName": "NLP Driven IBN Layered Architecture for SDNs",
+        "batch": "E19",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
+        "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+        "api_url": "https://api.github.com/repos/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+        "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "created_at": "2025-02-02T13:17:32Z",
+        "updated_at": "2026-08-20T17:25:25Z",
+        "forks_count": 0,
+        "stars_count": 1,
+        "watchers_count": 1,
+        "language": "TypeScript",
+        "topics": [],
+        "has_projects": true,
+        "has_wiki": true,
+        "has_pages": true,
+        "description": "This research designs a scalable, NLP-driven intent-based networking architecture for SDNs. It features a three-layered structure: Translation (NLP-based), Policy Optimization (ML/RL-based), and Intent Enforcement (SDN-integrated). The goal is to enhance network management efficiency and adaptability.",
+        "team": {
+            "E/19/409": {
+                "name": "Dineth Udugamasooriya",
+                "email": "e19409@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/409",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19409.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/409/"
+            },
+            "E/19/413": {
+                "name": "Nipul Viduranga",
+                "email": "e19413@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/413",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19413.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/413/"
+            },
+            "E/19/446": {
+                "name": "Kalindu Wijerathna",
+                "email": "e19446@eng.pdn.ac.lk",
+                "website": "https://kalindubuilds.me/",
+                "github": "https://github.com/KalinduWijerathna",
+                "linkedin": "https://www.linkedin.com/in/kalindu-wijerathna/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/446",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19446.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/446/"
+            }
+        },
+        "supervisors": {
+            "namal@eng.pdn.ac.lk": {
+                "name": "Dr. Suneth Namal Karunarathna",
+                "email": "namal@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/suneth-namal-karunarathna.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/namal",
+                "website": "#",
+                "linkedin": "https://lk.linkedin.com/in/suneth-namal-b70b8688",
+                "researchgate": "https://www.researchgate.net/profile/Suneth-Namal",
+                "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
             }
         },
         "tags": [
@@ -38146,7 +38282,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e20-4yp-SinhSafe",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "created_at": "2026-01-14T20:12:04Z",
-        "updated_at": "2026-03-17T22:45:54Z",
+        "updated_at": "2026-08-19T11:43:33Z",
         "forks_count": 1,
         "stars_count": 0,
         "watchers_count": 0,
@@ -38155,7 +38291,7 @@
         "has_projects": true,
         "has_wiki": true,
         "has_pages": true,
-        "description": "SinhSafe benchmarks XLM-R, SinBERT, and SinhLlama to identify the best model for Sinhala/Singlish cyberbullying detection. Our core contribution is a large pseudo-labeled dataset with fine-grained labels (Normal, Offensive, Bullying), processed via a hybrid transliteration pipeline to advance low-resource NLP safety tools.",
+        "description": "SinhSafe benchmarks XLM-R, SinBERT, and SinhLlama to identify the best model for Sinhala/Singlish cyberbullying detection. Our core contribution is a large pseudo-labeled dataset with fine-grained labels (Normal, Offensive, Harrassment), processed via a hybrid transliteration pipeline to advance low-resource NLP safety tools.",
         "team": {
             "E/20/397": {
                 "name": "Thilakasiri P.D.",
@@ -48186,7 +48322,7 @@
         "api_url": "https://api.github.com/repos/cepdnaclk/e23-co543-Exercise-Posture-Correction-Helper",
         "thumb_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
         "created_at": "2026-07-15T07:48:54Z",
-        "updated_at": "2026-07-21T03:42:46Z",
+        "updated_at": "2026-08-17T02:25:35Z",
         "forks_count": 1,
         "stars_count": 0,
         "watchers_count": 0,
