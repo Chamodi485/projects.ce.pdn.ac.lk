@@ -2,7 +2,8 @@
 layout: project_page
 title: SlideSense
 permalink: /3yp/e21/SlideSense/
-description: ''
+description: AI-enhanced IoT landslide monitoring and early-warning system using ESP32,
+  multi-sensor field monitoring, AWS cloud services, and a real-time web dashboard
 has_children: false
 parent: E21 Cyber-Physical Systems Projects
 grand_parent: Cyber-Physical Systems Projects
@@ -16,3 +17,4 @@ stars: 3
 started_on: '2026-02-04T09:54:39Z'
 ---
 
+AI-enhanced IoT landslide monitoring and early-warning system using ESP32, multi-sensor field monitoring, AWS cloud services, and a real-time web dashboard
