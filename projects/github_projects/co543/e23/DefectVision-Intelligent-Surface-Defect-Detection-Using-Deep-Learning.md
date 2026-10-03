@@ -13,8 +13,8 @@ thumbnail_url: /data/categories/co543/thumbnail.jpg
 repo_url: https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning
 page_url: https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning
 forks: 0
-watchers: 1
-stars: 1
+watchers: 2
+stars: 2
 started_on: '2026-07-06T10:26:13Z'
 ---
 
