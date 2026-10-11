@@ -158,6 +158,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
         },
         {
+            "title": "ReflectStudio",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
+        },
+        {
             "title": "AI System for Lung nodule follow up using plain chest X Ray",
             "category": {
                 "code": "4yp",
@@ -361,19 +374,6 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
             "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
-        },
-        {
-            "title": "SPECTRA LEAF",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
         }
     ],
     "Accelerated Computing": [
@@ -746,7 +746,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
             "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
             "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
@@ -952,7 +952,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
             "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
             "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
@@ -2422,6 +2422,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Colorization-of-Grayscale-Images-Using-Image-Processing-Techniques/"
         }
     ],
+    "Community Marketplace": [
+        {
+            "title": "wedaklk",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/wedaklk/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-wedaklk",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-wedaklk",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-wedaklk/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/wedaklk/"
+        }
+    ],
     "Comparative Analysis": [
         {
             "title": "Comparative Analysis of 2nd and 3rd Generation Sequencing",
@@ -2859,7 +2874,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
             "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
             "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         },
         {
@@ -3585,7 +3600,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
             "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
             "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         },
         {
@@ -4156,6 +4171,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/"
         }
     ],
+    "Elderly Care": [
+        {
+            "title": "ReflectStudio",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
+        }
+    ],
     "Election-Database-Management-System": [
         {
             "title": "Election_Data_Base_Management_System",
@@ -4723,6 +4753,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
         },
         {
+            "title": "ReflectStudio",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
+        },
+        {
             "title": "ResQ",
             "category": {
                 "code": "3yp",
@@ -4760,19 +4803,6 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
             "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
-        },
-        {
-            "title": "SPECTRA LEAF",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
         },
         {
             "title": "SlideSense",
@@ -5685,6 +5715,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
         },
         {
+            "title": "MedFlow",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/MedFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-MedFlow",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/MedFlow/"
+        },
+        {
             "title": "automatic fish tank control system",
             "category": {
                 "code": "3yp",
@@ -6221,7 +6264,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
             "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
             "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
@@ -8570,7 +8613,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
             "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
             "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
@@ -9215,23 +9258,8 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
             "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
             "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
-        }
-    ],
-    "Industrial IoT": [
-        {
-            "title": "SPECTRA LEAF",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
         }
     ],
     "Industrial Networks": [
@@ -9557,6 +9585,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
             "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
+        },
+        {
+            "title": "ReflectStudio",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
         },
         {
             "title": "SlideSense",
@@ -10479,7 +10520,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
             "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
             "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
@@ -10730,19 +10771,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
-        },
-        {
-            "title": "SPECTRA LEAF",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
         },
         {
             "title": "Road Traffic Ecosystem",
@@ -11052,9 +11080,35 @@
             "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
         }
     ],
     "Medical": [
+        {
+            "title": " co2050  Medico Legal_Case_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/"
+        },
         {
             "title": "ResQ",
             "category": {
@@ -12942,7 +12996,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
             "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
             "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
@@ -14601,21 +14655,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
         }
     ],
-    "Sensor Networks": [
-        {
-            "title": "SPECTRA LEAF",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
-        }
-    ],
     "Signal Processing": [
         {
             "title": "Enhancing Video Game Experience With Brain Computer Interface",
@@ -14930,6 +14969,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
         }
     ],
     "Software Metrics": [
@@ -15475,6 +15527,19 @@
     ],
     "Software Systems Development": [
         {
+            "title": " co2050  Medico Legal_Case_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/"
+        },
+        {
             "title": "NexClinic",
             "category": {
                 "code": "co2060",
@@ -15886,7 +15951,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
             "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
             "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
@@ -16975,19 +17040,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
         },
         {
-            "title": "SPECTRA LEAF",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
-        },
-        {
             "title": "SlideSense",
             "category": {
                 "code": "3yp",
@@ -17883,6 +17935,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
+        },
+        {
+            "title": "MedFlow",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/MedFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-MedFlow",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/MedFlow/"
         },
         {
             "title": "automatic fish tank control system",
@@ -18979,6 +19044,19 @@
     ],
     "Web Application": [
         {
+            "title": " co2050  Medico Legal_Case_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/"
+        },
+        {
             "title": "Price Prediction in Stock Market",
             "category": {
                 "code": "6sp",
@@ -19176,6 +19254,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+        },
+        {
+            "title": "wedaklk",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/wedaklk/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-wedaklk",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-wedaklk",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-wedaklk/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/wedaklk/"
         }
     ],
     "Web Security": [
@@ -19646,6 +19737,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
         }
     ],
+    "database-system": [
+        {
+            "title": " co2050  Medico Legal_Case_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/"
+        }
+    ],
     "deep learning": [
         {
             "title": "Applying deep learning on histological images of lymph tissues",
@@ -19749,6 +19855,21 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
             "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+        }
+    ],
+    "legal-system": [
+        {
+            "title": " co2050  Medico Legal_Case_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/"
         }
     ],
     "lexical analysis": [
